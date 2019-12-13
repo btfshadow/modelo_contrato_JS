@@ -9,7 +9,7 @@
     "good-mocha-html-reporter": "^2.0.1",
     "joi": "^13.3.0",
     "joi-assert": "0.0.3",
-    "npm": "^6.1.0",
+    "npm": "^6.13.4",
     "reinstall": "^2.0.0",
     "request": "^2.87.0"
   },
