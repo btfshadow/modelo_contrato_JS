@@ -4,7 +4,7 @@
   "main": "Test.js",
   "dependencies": {
     "enjoi": "^3.2.3",
-    "express": "^4.16.3",
+    "express": "^4.17.3",
     "fs": "0.0.1-security",
     "good-mocha-html-reporter": "^2.0.1",
     "joi": "^13.3.0",
